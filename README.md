@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @argha2000
-- 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Javascript and its various technologies as well as elementary ML concepts.
+- 👋 Hi, I’m Argha Bhattacharjee!
+- 👀 I’m an enthusiast for Ml and Data Science related topics!
+- 🌱 I’m currently on the continuous journey of learning and applying various concepts that I come across!
 
 <!---
 argha2000/argha2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
